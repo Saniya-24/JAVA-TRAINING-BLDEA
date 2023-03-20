@@ -13,10 +13,10 @@ public class Program13 {
 			System.out.println("You are still a minor.Please grow up!!");
 		}
 		else if(age>65) {
-			System.out.println("You are a senior citizen.Stop over expectations");
+			System.out.println("You are a senior citizen.");
 		}
 		else {
-			System.out.println("Congratulations. You are un the list of most eligible group");
+			System.out.println("Congratulations. You are in the list of most eligible group");
 		}
 
 	}
